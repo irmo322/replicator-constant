@@ -1,0 +1,23 @@
+play_name: "Deux chats et un chien"
+
+stage_directions:
+  labels: ["Didascalie"]
+
+characters:
+  - labels: ["Connor", "Douby", "Doudy"]  # A single character may have multiple names in a play. The first label is the one used for menus.
+  - labels: ["Nemesis", "Nem"]
+  - labels: ["Friska"]
+
+scenes:
+  - menu_name: "Scène I-1 : Un nouveau monde"
+    file_path: "transcriptions/scene_I_1.txt"  # Paths are all relative to the folder containing this file.
+  - menu_name: "Scène I-2 : Une faim inattendue"
+    file_path: "transcriptions/scene_I_2.txt"
+
+version: "1.0"  # Or whatever string you want
+
+output:
+  web_app:
+    file_path: "index.html"
+  statistics:
+    file_path: "statistics.csv"
