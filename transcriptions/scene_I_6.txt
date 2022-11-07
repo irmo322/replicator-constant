@@ -1,0 +1,208 @@
+# La pièce n’étant pas découpée en scènes,
+# on utilise ici la convention qu’une entrée/sortie de personnage marque un
+# changement de scène.
+
+
+Didascalie
+Elle sort, en regardant Jack.
+
+LORD BRACKNELL
+(s'asseyant.) Vous pouvez vous asseoir, Mr Worthing.
+
+Didascalie
+Il fouille dans sa poche à la recherche de son carnet et de son crayon.
+
+JACK
+Merci, Lord Bracknell, je préfère rester debout.  
+
+LORD BRACKNELL
+(carnet et crayon à la main.) Je me sens obligée de vous dire que vous ne figurez pas sur ma liste des partis possibles, bien que j'aie la même liste que cette chère duchesse de Bolton.  
+De fait, nous travaillons ensemble.  
+Néanmoins, je suis tout à fait prête à faire figurer votre nom, si vos réponses correspondent à ce que peut exiger un père plein d'une affection véritable.  
+Est-ce que vous fumez?
+
+JACK
+Eh bien oui, je dois avouer que je fume.
+
+LORD BRACKNELL
+Je suis heureux de l'apprendre.  
+Un homme doit toujours avoir une occupation ou une autre.  
+Il y a beaucoup trop d'hommes désoeuvrés à Londres, comme cela.  
+Quel âge avez-vous? 
+
+JACK
+Vingt-neuf ans.
+
+LORD BRACKNELL
+Un très bon âge pour se marier.  
+J'ai toujours été d'avis qu'un homme qui désire se marier doit ou bien tout connaître de la vie, ou bien n'en rien connaître.  
+Pour vous, que connaissez-vous de la vie? 
+
+JACK
+(après quelque hésitation.) Rien, Lord Bracknell. 
+
+LORD BRACKNELL
+Je suis ravie de l'entendre.
+J'ai horreur de tout ce  qui peut altérer l'ignorance naturelle.  
+L'ignorance est comme un tendre fruit exotique; si vous y touchez,il perd sa fleur.  
+Toute la théorie de l'instruction  moderne est radicalement absurde.  
+Par bonheur, en Angleterre du moins, l'instruction ne produit pas le moindre résultat.  
+Si c'était le cas, elle se révélerait un sérieux danger pour les classes supérieures, et elle conduirait probablement à des actes de violence dans Grosvenor Square 1.
+Quels sont vos revenus?
+
+JACK
+Entre sept et huit mille livres par an
+
+LORD BRACKNELL
+(notant sur son carnet.) En terres ou en placements?
+
+JACK
+En placements, surtout.
+
+LORD BRACKNELL
+Très bien.  
+Entre les droits qu'il faut payer de son vivant, et les droits que l'on exige de nous après la mort, la terre a cessé d'apporter profit ou plaisir.
+Elle donne un rang social, mais empêche de le conserver.  
+Il n'y a rien d'autre à dire sur l'intérêt de posséder des terres.
+
+JACK
+J'ai une maison de campagne avec, bien sûr, un peu de terre autour, environ six cents hectares, je crois; mais ce n'est pas cela qui me fournit mes revenus véritables.  
+En fait, autant que je puisse m'en rendre compte, les braconniers sont les seuls à tirer le moindre profit de cette terre.
+
+LORD BRACKNELL
+Une maison de campagne! Combien de chambres ?
+Ma foi, cette question pourra être éclaircie plus tard.
+Vous avez une maison en ville, j'espère?
+On ne peut guère demander à une jeune fille avec un caractère aussi simple et aussi peu frelaté que celui de Gwendolen de vivre à la campagne.
+
+JACK
+Eh bien, je possède une maison dans Belgrave Square, mais elle est louée à l'année à Lady Bloxham.
+Naturellement, je peux la reprendre quand je veux, avec un préavis de six mois.
+
+LORD BRACKNELL
+Lady Bloxham? Je ne la connais pas.
+
+JACK
+Oh, elle sort très peu.  
+C'est une dame très âgée.  
+
+LORD BRACKNELL
+Oh, de nos jours, l'âge n'est nullement une garantie de respectabilité.  
+À quel numéro dans Belgrave Square?
+
+JACK
+Au 149.
+
+LORD BRACKNELL
+(hochant la tête.) Du côté qui n'est plus à la mode.  
+Je me doutais  bien qu'il y avait quelque chose.  
+De toute façon, on pourrait aisément changer cela.
+
+JACK
+Vous voulez dire la mode, ou le côté?
+
+LORD BRACKNELL
+(sévèrement.) Les deux, si nécessaire, j'imagine.  
+Quelles sont vos idées politiques?
+
+JACK
+Ma foi, j'ai bien peur de ne pas vraiment en avoir.
+Je suis un libéral unioniste.
+
+LORD BRACKNELL
+Oh, ce sont presque des tories.  
+Ils dînent avec  nous.  
+Ou en tout cas, ils viennent chez nous le soir. Venons-en maintenant à des détails.  
+Vos parents sont-ils en vie?
+
+JACK
+J'ai perdu mes deux parents.
+
+LORD BRACKNELL
+Tous les deux ?
+Perdre un parent peut être considéré comme un malheur, Mr Worthing;
+mais perdre les deux, cela ressemble à de l'étourderie. 
+Qui était votre père?
+C'était évidemment quelqu'un qui possédait une certaine fortune.  
+Était-il né dans ce que les journaux de gauche appellent la pourpre du commerce, ou bien provenait-il des rangs de l'aristocratie?
+
+JACK
+Je crains de n'en rien savoir.  
+En réalité, Lord Bracknell, je vous ai dit que j'avais perdu mes parents.  
+Il serait plus proche de la vérité de dire que  ce sont mes parents qui semblent m'avoir perdu ...
+À vrai dire, je ne sais pas qui je suis par ma naissance.  
+Je suis … eh bien, je suis un enfant trouvé.
+
+LORD BRACKNELL
+Un enfant trouvé!
+
+JACK
+Feu Mr Thomas Cardew, un vieux gentleman d'un naturel très charitable et bienveillant, m'a trouvé, et m'a donné le nom de Worthing, car il se trouvait qu'il avait dans la poche à ce moment-là un billet de première classe pour Worthing.  
+Worthing se  trouve dans le Sussex.  
+C'est une station balnéaire. 
+
+LORD BRACKNELL
+Et où ce charitable gentleman, qui avait un billet de première classe pour cette station balnéaire, vous a-t-il trouvé?
+
+JACK
+(gravement.) Dans un sac de voyage.
+
+LORD BRACKNELL
+Un sac de voyage?
+
+JACK
+(très sérieusement.) Oui, Lord Bracknell, j'étais dans un sac de voyage…
+un grand sac de voyage en cuir noir, avec des poignées …
+en fait, un sac de voyage ordinaire.
+
+LORD BRACKNELL
+Dans quelle localité ce Mr James, ou plutôt Thomas Cardew, avait-il trouvé ce sac de voyage ordinaire?
+
+JACK
+A la consigne de la gare Victoria.  
+On le lui a remis par erreur à la place du sien.
+
+LORD BRACKNELL
+A la consigne de la gare Victoria?
+
+JACK
+Oui. Devant le quai de la ligne de Brighton. 
+
+LORD BRACKNELL
+Peu importe la ligne.  
+Mr Worthing, je vous avoue que je suis un peu stupéfait de ce que vous venez de me dire.  
+Naître, ou en tout cas, grandir dans un sac de voyage, qu'il ait eu ou non des poignées, me semble témoigner d'un mépris pour les convenances ordinaires de la vie de famille qui rappelle les pires excès de la Révolution française.  
+Et je suppose que vous savez à quoi a conduit ce malheureux mouvement?
+Quant à l'endroit particulier où le sac a été découvert, une consigne de gare ferroviaire peut fort bien servir à dissimuler le fruit d'un adultère .
+Ce n'est probablement pas la première fois que cela arrive .  
+mais on ne peut guère la considérer comme une base solide pour obtenir une situation reconnue dans la bonne société.
+
+JACK
+Puis-je vous demander ce que vous me conseillez de faire? Je n'ai pas besoin de vous dire que je suis prêt à tout pour assurer le bonheur de Gwendolen.
+
+LORD BRACKNELL
+Je vous conseillerais vivement, Mr Worthing, d'essayer d'acquérir une famille le plus vite possible, et de faire un sérieux effort pour nous présenter un parent, homme ou femme, peu importe, avant la toute fin de la saison.
+
+JACK
+Ma foi, je ne vois pas comment je pourrais y parvenir.
+Je peux vous montrer le sac de voyage quand vous voudrez.  
+Il est dans mon cabinet de toilette à la  maison.  
+Je pense sincèrement que cela devrait vous satisfaire, Lord Bracknell.
+
+LORD BRACKNELL
+Moi, monsieur! Qu'est-ce que cela a à voir avec moi? Vous n'allez tout de même pas imaginer que moi-même et Lady Bracknell songerions à autoriser notre fille unique …
+une jeune fille élevée avec le plus grand soin …
+à épouser une consigne et à contracter  une alliance avec un paquet.  
+Le bonjour, Mr Worthing! Lord Bracknell sort noblement, d'un air majestueusement indigné.
+
+JACK
+Le bonjour !
+
+Didascalie
+Algernon, de la pièce voisine, commence à jouer la Marche nuptiale. Jack a l'air absolument furieux et va vers la porte.
+
+JACK
+Pour l'amour du Ciel, arrête de jouer cet air funèbre, Algy ! Ce que tu peux être bête!
+
+
+

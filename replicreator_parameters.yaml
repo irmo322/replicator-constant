@@ -22,6 +22,10 @@ scenes:
     file_path: "transcriptions/scene_I_4.txt"
   - menu_name: "Scène I-5"
     file_path: "transcriptions/scene_I_5.txt"
+  - menu_name: "Scène I-6"
+    file_path: "transcriptions/scene_I_6.txt"
+  - menu_name: "Scène I-7"
+    file_path: "transcriptions/scene_I_7.txt"
     
 
 version: "1.0"
