@@ -1,0 +1,250 @@
+# La pièce n’étant pas découpée en scènes,
+# on utilise ici la convention qu’une entrée/sortie de personnage marque un
+# changement de scène.
+
+Didascalie
+Entre Lane avec l'étui à cigarettes sur un plateau. 
+Algernon le prend aussitôt. Lane sort.
+
+ALGERNON
+Je dois dire, Constant, que je trouve cela un peu mesquin de ta part. 
+(Il ouvre l'étui et l'examine.) 
+Enfin, cela n'a pas d'importance, car maintenant que je vois ce qui est gravé à l'intérieur, 
+je m'aperçois qu'il ne t'appartient pas, en définitive.
+
+JACK
+Bien sûr qu'il m'appartient. (S'approchant de lui.) 
+Tu m'as vu m'en servir cent fois, et tu n'as pas le droit de lire ce qui est écrit à l'intérieur. 
+Ce n'est pas digne d'un gentleman de lire ce qui est écrit dans l'étui à cigarettes d'un autre.
+
+ALGERNON
+Oh! C'est absurde d'avoir des principes aussi rigoureux sur ce qu'on doit lire et sur ce qu'on ne doit pas lire. 
+Plus de la moitié de la culture moderne est faite de ce qu'on ne doit pas lire.
+
+JACK
+J'en suis parfaitement conscient, et je n'ai nullement l'intention de discuter de la culture moderne. 
+C'est un sujet qui ne convient pas à une conversation privée. 
+Je veux seulement récupérer mon étui à cigarettes.
+
+ALGERNON
+Oui, sauf que ce n'est pas le tien. 
+Cet étui à cigarettes est un cadeau de quelqu'un qui se prénomme Cecily, 
+et tu m'as dit que tu ne connaissais personne de ce nom-là.
+
+JACK
+Eh bien, puisque tu veux tellement le savoir, il se trouve que Cecily est ma tante.
+
+ALGERNON
+Ta tante!
+
+JACK
+Oui. Et qui plus est, c'est une vieille dame charmante.
+Elle habite à Tunbridge Wells.
+Allons, rends-le-moi, Algy.
+
+ALGERNON
+Mais pourquoi s'appelle-t-elle elle-même la petite Cecily,
+si elle est ta tante et qu'elle habite à Tunhridge Wells? 
+(Lisant:) “De la part de votre petite Cecily qui vous aime tant.”
+
+JACK
+Qu'y a-t-il d'étrange à cela, mon cher?
+Il y a des tantes qui sont grandes et d'autres qui ne le sont pas.
+C'est là une question, me semble-t-il, sur laquelle une tante a le droit de se prononcer par elle-même.
+Tu as l'air de penser que toutes les tantes devraient être exactement comme la tienne!
+C'est absurde! Pour l'amour du Ciel, rends-moi mon étui à cigarettes.
+
+Didascalie
+Il poursuit Algernon à travers la pièce.
+
+ALGERNON
+Oui. Mais pourquoi ta tante t'appelle-t-elle son oncle? 
+De la part de votre petite Cecily qui aime tant son cher oncle Jack.
+Rien ne s'oppose, je l'admets, à ce qu'une tante soit petite, mais pourquoi une tante, 
+toute question de taille mise à part, irait appeler son neveu son oncle, voilà qui me dépasse.
+D'autant plus que ton nom n'est pas Jack, mais Constant.
+
+JACK
+Ce n'est pas Constant, mais Jack.
+
+ALGERNON
+Tu m'as toujours dit que c'était Constant. 
+Je t'ai présenté à tout le monde comme t'appelant Constant. 
+Tu réponds au prénom de Constant. 
+Tu as une tête à t'appeler Constant. 
+Tu es l'homme à l'air le plus constant que j'aie jamais rencontré. 
+Il est parfaitement absurde de prétendre que tu ne t'appelles pas Constant. 
+C'est marqué sur tes cartes de visite. 
+Tiens, en voici une. (La sortant de l'étui.) 
+“Mr Constant Worthing, suite B 4, à l'Albany”.
+Je la garde comme preuve que tu t'appelles Constant, 
+au cas où tu tenterais de le nier devant moi, ou devant Gwendolen, ou devant quiconque.
+
+Didascalie
+Il met la carte dans sa poche.
+
+JACK
+Eh bien, je m'appelle Constant à la ville et Jack à la campagne, 
+et cet étui à cigarettes m'a été offert à la campagne.
+
+ALGERNON
+Oui, mais cela n'explique pas que ta petite tante Cecily, qui habite Tunbridge Wells, t'appelle son cher oncle. 
+Allons, mon vieux, tu ferais mieux de cracher le morceau tout de suite.
+
+JACK
+Mon cher Algy, tu parles exactement comme si tu étais dentiste. 
+C'est extrêmement vulgaire de parler comme un dentiste, quand on n'est pas dentiste. 
+Cela crée une fausse impression.
+
+ALGERNON
+Ma foi, c'est exactement ce que font les dentistes. 
+Mais allons, dis-moi tout ! 
+Je peux te dire que je t'ai toujours soupçonné d'être en secret un bunburyste invétéré; 
+et maintenant j'en suis absolument sûr.
+
+JACK
+Un bunburyste? Que diable entends-tu par un bunburyste?
+
+ALGERNON
+Je te révélerai le sens de cette expression incomparable
+dès que tu auras eu la bonté de me dire pourquoi tu es Constant à la ville et Jack à la campagne.
+
+JACK
+D'accord, mais donne-moi d'abord mon étui à cigarettes.
+
+ALGERNON
+Le voici. (Il lui tend l'étui.)
+Maintenant, donne moi ton explication, et de grâce, fais qu'elle soit improbable. (Il s'assied sur le canapé.)
+
+JACK
+Mon cher, il n'y a strictement rien d'improbable dans mon explication. 
+Elle est même parfaitement banale. 
+Le vieux MrThomas Cardew, qui m'a adopté quand j'étais petit, m'a institué dans son testament le tuteur de sa petite-fille, Miss Cecily Cardew. 
+Cecily, qui m'appelle son oncle par un respect pour moi qu'il t'est impossible de concevoir,
+habite chez moi à la campagne sous la garde de son admirable gouvernante Miss Prism.
+
+ALGERNON
+Où se trouve-t-elle, déjà, ta maison de campagne?
+
+JACK
+Cela ne te regarde pas, mon cher, tu n'y seras pas invité ... 
+Ce que je peux te dire, en toute loyauté, c'est qu'elle ne se trouve pas dans le Shropshire.
+
+ALGERNON
+Je m'en doutais, mon cher! 
+J'ai déjà bunburysé dans tout le Shropshire en deux occasions différentes.
+Mais continue. Pourquoi es-tu Constant à la ville et Jack à la campagne?
+
+
+JACK
+Mon cher Algy, je ne sais pas si tu seras en mesure de comprendre mes véritables motivations. 
+Tu n'es pas assez sérieux pour cela. 
+Quand on se trouve dans la situation de tuteur, on se doit de proclamer des principes de haute moralité sur tous les sujets. 
+C'est un devoir. 
+Et comme on ne peut guère dire que les principes de haute moralité mènent vraiment soit à la santé soit au bonheur quand on les pousse à l'excès, 
+afin de me rendre à Londres, j'ai toujours fait semblant d'avoir un frère cadet prénommé Constant,
+qui vit à l'Albany et qui s'attire toujours des ennuis absolument effroyables. 
+Telle est, mon cher Algy, toute la vérité, la vérité pure et simple.
+
+ALGERNON
+La vérité est rarement pure, et elle n'est jamais simple. 
+Sinon, la vie moderne serait fort ennuyeuse, et la littérature moderne complètement impossible!
+
+JACK
+Ce qui ne serait pas une mauvaise chose.
+
+ALGERNON
+Mon cher ami, la critique littéraire n'est pas ton fort. 
+Ne t'y essaie pas. Laisse-la aux gens qui ne sont pas allés à l'université. 
+Ils s'en chargent fort bien dans les quotidiens. 
+Ce que tu es en réalité, c'est un bunburyste. 
+J'avais tout à fait raison quand je t'ai dit que tu étais un  un bunburyste. 
+Tu es l'un des bunburystes les plus radicaux que je connaisse.
+
+JACK
+Mais enfin, que veux-tu dire?
+
+ALGERNON
+Tu as inventé un frère cadet très utile qui s'appelle Constant, afin de pouvoir venir à Londres aussi souvent que tu en as envie. 
+Moi, j'ai inventé un inestimable malade chronique qui s'appelle Bunbury, afin de pouvoir me rendre à la campagne chaque fois que je le souhaite. 
+Bunbury est réellement inestimable. 
+Sans cet état de santé absolument déplorable de Bunbury, il m'aurait été impossible, par exemple, de dîner avec toi chez Willis ce soir, car, en fait, 
+je suis invité par oncle August depuis plus d'une semaine.
+
+JACK
+Je ne t'ai invité nulle part ce soir.
+
+ALGERNON
+Je sais, tu es d'une négligence absurde dans l'envoi de tes invitations. 
+C'est vraiment insensé de ta part. 
+Rien n'irrite davantage les gens que de ne pas recevoir d'invitation.
+
+JACK
+Tu ferais bien mieux de dîner avec ton oncle August.
+
+ALGERNON
+Je n'en ai pas la moindre intention. 
+D'abord, j'ai déjà dîné avec lui lundi, et une fois par semaine, c'est amplement suffisant pour les dîners de famille. 
+En second lieu, chaque fois que je dîne chez lui on me traite toujours comme un membre de la famille, 
+et je descends dans la salle à manger soit sans cavalière, soit avec deux à la fois.
+En troisième lieu, je sais parfaitement à côté de qui il veut me placer ce soir. 
+Il veut me placer auprès de Mary Farquhar, qui flirte toujours avec son mari assis en face d'elle. 
+Ce n'est pas très agréable. 
+À vrai dire, ce n'est même pas décent ... et c'est un comportement qui se répand de plus en plus. 
+Le nombre de femmes à Londres qui flirtent avec leur propre mari est absolument scandaleux. 
+C'est affligeant. C'est comme si on lavait son linge propre en public. 
+D'ailleurs, maintenant que je sais que tu es un bunburyste confirmé, j'ai naturellement envie de te parler du bunburysme. 
+Je veux t'en enseigner les règles.
+
+JACK
+Je ne suis absolument pas un bunburyste. 
+Si Gwendolen me dit oui, j'ai l'intention de tuer mon frère, je crois d'ailleurs que je le tuerai de toute façon. 
+Cecily s'intéresse un peu trop à lui. 
+Ça devient exaspérant. 
+Du coup, j'ai l'intention de me débarrasser de Constant. 
+Et je te conseille vivement d'en faire autant de ce Mr ... de cet ami malade qui porte ce nom absurde.
+
+ALGERNON
+Rien ne m'incitera jamais à me séparer de Bunbury, et si un jour tu te mariais, 
+ce qui me paraît bien problématique, tu seras bien content de connaître Bunbury. 
+Un homme qui se marie sans connaître Bunbury se prépare une vie sinistre.
+
+JACK
+Sottises. Si j'épouse une jeune fille aussi charmante que Gwendolen, 
+et de toutes les filles que j'ai rencontrées, 
+c'est la seule que je sois prêt à épouser, je n'aurai certainement pas besoin de connaître Bunbury.
+
+ALGERNON
+Alors c'est ta femme qui en aura besoin. 
+Tu ne sembles pas te rendre compte que dans la vie conjugale, à trois on s'amuse, à deux on s'ennuie.
+
+JACK
+Cela, mon cher et jeune ami, c'est la théorie que nous propose depuis cinquante ans le théâtre corrompu des Français.
+
+ALGERNON
+Oui; et une théorie que nos heureux foyers anglais ont mis moitié moins de temps à démontrer.
+
+JACK
+Pour l'amour du ciel, ne fais pas le cynique.
+C'est absolument facile d'être cynique.
+
+ALGERNON
+Mon cher ami, de nos jours, ce n'est pas facile d'être quoi que ce soit. 
+Il y a en toute chose une concurrence extrêmement acharnée. 
+(On entend une sonnette électrique.) Ah, ce doit être oncle August. 
+Il n'y a que des parents, ou des créanciers, pour sonner d'une manière aussi wagnérienne.
+Écoute, si je parviens à l'éloigner dix minutes, pour que tu puisses demander Gwendolen en mariage, puis-je dîner avec toi ce soir chez Willis?
+
+JACK
+Je suppose que oui, si tu y tiens.
+
+ALGERNON
+Oui, mais il faut que ce soit un engagement sérieux. 
+J'ai horreur des gens qui ne sont pas sérieux à propos des repas. 
+C'est de la frivolité de leur part.
+
+Didascalie
+Entre Lane.
+
+LANE
+Lord Bracknell et Miss Fairfax.

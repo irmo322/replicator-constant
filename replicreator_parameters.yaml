@@ -1,20 +1,30 @@
-play_name: "Deux chats et un chien"
+play_name: "L'importance d'être constant"
 
 stage_directions:
   labels: ["Didascalie"]
 
 characters:
-  - labels: ["Connor", "Douby", "Doudy"]  # A single character may have multiple names in a play. The first label is the one used for menus.
-  - labels: ["Nemesis", "Nem"]
-  - labels: ["Friska"]
+  - labels: ["JACK"]
+  - labels: ["ALGERNON"]
+  - labels: ["GWENDOLEN"]
+  - labels: ["LANE"]
+  - labels: ["LORD BRACKNELL"]
+
 
 scenes:
-  - menu_name: "Scène I-1 : Un nouveau monde"
-    file_path: "transcriptions/scene_I_1.txt"  # Paths are all relative to the folder containing this file.
-  - menu_name: "Scène I-2 : Une faim inattendue"
+  - menu_name: "Scène I-1"
+    file_path: "transcriptions/scene_I_1.txt" 
+  - menu_name: "Scène I-2"
     file_path: "transcriptions/scene_I_2.txt"
+  - menu_name: "Scène I-3"
+    file_path: "transcriptions/scene_I_3.txt"
+  - menu_name: "Scène I-4"
+    file_path: "transcriptions/scene_I_4.txt"
+  - menu_name: "Scène I-5"
+    file_path: "transcriptions/scene_I_5.txt"
+    
 
-version: "1.0"  # Or whatever string you want
+version: "1.0"
 
 output:
   web_app:

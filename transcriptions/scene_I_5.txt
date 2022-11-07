@@ -1,0 +1,196 @@
+# La pièce n’étant pas découpée en scènes,
+# on utilise ici la convention qu’une entrée/sortie de personnage marque un
+# changement de scène.
+
+
+Didascalie
+Lord Bracknell et Algernon entrent dans le salon de musique, Gwendolen reste en arrière.
+
+JACK
+Quelle belle journée, Miss Fairfax.
+
+GWENDOLEN
+De grâce, ne me parlez pas du temps, Mr Worthing.
+Chaque fois que les gens me parlent du temps, j'ai la certitude qu'ils veulent me parler d'autre chose, et cela me rend terriblement nerveuse.
+
+JACK
+En effet, je veux vous parler d'autre chose.
+
+GWENDOLEN
+C'est bien ce que je pensais.  
+D'ailleurs, je ne me trompe jamais.
+
+JACK
+Je voudrais que vous m'autorisiez à profiter de l'absence momentanée de Lord Bracknell .  
+
+GWENDOLEN
+Je vous le conseille tout à fait.  
+Il arrive à papa de revenir tout à coup dans une pièce, et je le lui ai déjà souvent fait remarquer.
+
+JACK
+(nerveusement) Miss Fairfax, depuis que je vous ai rencontrée, je vous admire plus que toute autre jeune fille que j'aie jamais rencontrée depuis que je vous ai rencontrée. 
+
+GWENDOLEN
+Oui, j'en suis tout à fait consciente.  
+Et j'ai souvent souhaité qu'en public du moins, vous soyez plus démonstratif.  
+Vous avez toujours exercé sur moi une fascination irrésistible.  
+Avant même de vous rencontrer, j'étais loin d'être indifférente à votre égard.
+(Jack la regarde d'un air stupéfait.)
+Mr Worthing, nous vivons, vous le savez, j'espère, à une époque d'idéaux.
+C'est une réalité dont on parle constamment dans les magazines les plus luxueux, et un phénomène qui a même atteint, me dit-on, les chaires de nos pasteurs en province;
+et mon idéal à moi a toujours été d'aimer quelqu'un qui s'appellerait Constant.  
+Il y a quelque chose dans ce prénom qui inspire une confiance absolue.  
+Dès la première fois qu'Algemon m'a dit qu'il avait un ami qui s'appelait Constant, j'ai su que j'étais destinée à vous aimer.
+
+JACK
+Vous m'aimez vraiment, Gwendolen?
+
+GWENDOLEN
+Passionnément!
+
+JACK
+Ma chérie! Vous ne pouvez pas savoir combien vous me rendez heureux.
+
+GWENDOLEN
+Mon Constant à moi!
+
+JACK
+Mais sérieusement, vous ne voulez pas dire que vous ne pourriez pas m'aimer si je ne me prénommais pas Constant?
+
+GWENDOLEN
+Mais vous vous prénommez Constant.
+
+JACK
+Oui, bien sûr, je sais, mais en supposant que je m'appelle autrement? Voulez-vous dire que vous ne pourriez pas m'aimer?
+
+GWENDOLEN
+(volubile.) Ah, il s'agit là clairement d'une spéculation métaphysique, et comme la plupart des spéculations métaphysiques, elle n'a que très peu de rapport avec les faits de la vie réelle tels que nous les connaissons.
+
+JACK
+Personnellement, ma chérie, pour vous parler en toute sincérité, je n'aime pas beaucoup ce prénom de Constant .
+Je ne pense pas que ce prénom m'aille tellement bien.
+
+GWENDOLEN
+Il vous va à merveille.  
+C'est un prénom divin.  
+Il possède une musique rien qu'à lui.  
+Il produit des vibrations.
+
+JACK
+Gwendolen, sérieusement, je dois dire qu'à mon sens, il y a quantité de prénoms beaucoup plus jolis.
+Je pense que Jack, par exemple, est un prénom charmant.
+
+GWENDOLEN
+Jack?
+Non, il y a très peu de musicalité dans ce prénom de Jack, si tant est qu'il y en ait une.  
+Il ne suscite aucune émotion, et ne produit absolument aucune vibration…
+J'ai connu plusieurs Jack, et ils étaient tous sans exception d'une banalité plus qu'ordinaire.  
+D'ailleurs, c'est bien connu, Jack est un diminutif de John!
+Et je plains la femme qui seraitmariée à un homme qui s'appellerait John.  
+Elle ne 72 L 'Importance d'être constant pourrait sans doute jamais connaître le plaisir exaltant d'un seul moment de solitude.  
+Non, le seul prénom qui soit une valeur sûre, c'est Constant.
+
+JACK
+Gwendolen, il faut que je me fasse baptiser immédiatement…
+je veux dire : il faut nous marier immédiatement. Il n'y a pas de temps à perdre.
+
+GWENDOLEN
+Nous marier, Mr Worthing?
+
+JACK
+(stupéfait) Mais oui…
+absolument.  
+Vous savez que je vous aime, et vous m'avez laissé entendre, Miss Fairfax, que je ne vous étais pas totalement indifférent.
+
+GWENDOLEN
+Je vous adore.  
+Mais vous ne m'avez pas encore fait votre demande.  
+Nous n'avons pas encore parlé de mariage.  
+Le sujet n'a même pas été abordé. 
+JACK
+Eh bien…
+puis-je vous faire ma demande tout de suite?
+
+GWENDOLEN
+Je pense que ce serait une excellente occasion.  
+Et pour vous épargner toute déception, Mr Worthing, je crois juste de vous dire tout de suite très franchement que je suis pleinement décidée à vous dire oui.
+
+JACK
+Gwendolen!
+
+GWENDOLEN
+Oui, Mr Worthing, que voulez-vous me dire?
+
+JACK
+Vous savez ce que je veux vous dire.
+
+GWENDOLEN
+Oui, mais vous ne le dites pas.
+
+JACK
+Gwendolen, voulez-vous être ma femme?
+Il se met à genoux.
+
+GWENDOLEN
+Naturellement, mon chéri. 
+Vous en avez mis du temps! Vous avez, je le crains, très peu d'expérience des demandes en mariage.
+
+JACK
+Mon amour, je n'ai jamais aimé personne au monde que vous.
+
+GWENDOLEN
+Oui, mais les hommes font souvent des demandes en mariage pour s'entraîner.  
+Je sais que c'est le cas de mon frère Gerald.  
+Toutes mes amies me le disent.
+Quels merveilleux yeux bleus vous avez, Constant !
+Ils sont tout à fait bleus.  
+J'espère que vous me regarderez toujours comme ça, surtout quand il y aura du monde.
+
+Didascalie
+Entre Lord Bracknell.
+
+LORD BRACKNELL
+Mr Worthing! Relevez-vous, monsieur, de cette position à moitié couchée.  
+Elle est tout à fait indécente! 
+
+GWENDOLEN
+Papa! (Il essaie de se relever; elle l'en empêche) 
+Je vous prie de vous retirer.  
+Vous n'avez rien à faire ici.
+D'ailleurs, Mr Worthing n'a pas encore tout à fait fini.
+
+LORD BRACKNELL
+Fini quoi, s'il te plaît?
+
+GWENDOLEN
+Papa, je suis fiancée à Mr Worthing.
+
+Didascalie
+Ils se relèvent ensemble.
+
+LORD BRACKNELL
+Je te demande pardon, tu n'es fiancée à personne.
+Lorsque tu seras fiancée à quelqu'un, c'est moi qui t'en aviserai, ou ta mère, si sa santé le lui permet.
+Les fiançailles doivent toujours être pour une jeune fille une surprise, agréable ou désagréable, selon le cas.  
+Ce n'est guère un événement que l'on puisse l'autoriser à régler par elle-même...
+Maintenant, Mr Worthing, j'ai quelques questions à vous poser.
+Et pendant que je mène cette enquête, toi, Gwendolen, tu vas m'attendre en bas dans la voiture.
+
+GWENDOLEN
+(d'un ton de reproche.) Papa!
+
+LORD BRACKNELL
+Gwendolen, dans la voiture !
+
+Didascalie
+Gwendolen va à la porte. 
+Jack et elle s'envoient des baisers dans le dos de Lord Bracknell.
+Lord Bracknell regarde vaguement autour de lui, comme si il ne comprenait pas d'où vient le bruit.Pour finir, il se retourne. 
+
+LORD BRACKNELL
+Gwendolen, dans la voiture!
+
+GWENDOLEN
+Oui, papa.
+
+

@@ -1,0 +1,146 @@
+# La pièce n’étant pas découpée en scènes,
+# on utilise ici la convention qu’une entrée/sortie de personnage marque un
+# changement de scène.
+
+Didascalie
+Algernon s'avance à leur rencontre. Entrent Lord Bracknell et Gwendolen.
+
+LORD BRACKNELL
+Bonjour, chèr Algernon, j'espère que tu te conduis bien aujourd'hui.
+
+ALGERNON
+Je me sens bien en tout cas, oncle August.
+
+LORD BRACKNELL
+Ce n'est pas tout à fait la même chose.  
+En réalité, les deux vont rarement ensemble.
+Il aperçoit Jack et lui adresse un petit salut glacial.
+
+ALGERNON 
+(à Gwendolen) Dieu que tu es élégante !
+
+GWENDOLEN
+Je suis toujours élégante! N'est-ce pas, Mr Worthing?
+
+JACK
+Vous êtes la perfection même, Miss Fairfax.
+
+GWENDOLEN
+Oh, j'espère bien que non.  
+Je n'aurais plus aucun progrès à faire, et j'ai bien l'intention de faire des progrès dans plusieurs domaines.
+Gwendolen et Jack s'asseyent ensemble dans un coin.
+
+LORD BRACKNELL
+Je suis navrée si nous sommes un peu en retard, Algernon, mais j'ai été obligée de rendre visite à cette chère Lady Harbury.  
+Je ne m'étais pas rendue chez elle depuis la mort de son pauvre mari.  
+Je n'ai jamais vu une femme changée à ce point-là; elle a l'aird'avoir rajeuni d'une bonne vingtaine d'années.  
+Et maintenant, je vais prendre une tasse de thé, et un de ces délicieux sandwichs au concombre que tu m'as promis.
+
+ALGERNON
+Mais certainement, oncle August.
+
+Didascalie
+Il s'approche de la table basse.
+
+LORD BRACKNELL
+Tu ne veux pas venir t'asseoir ici, Gwendolen?
+
+GWENDOLEN
+Merci, papa, je suis très bien où je suis.
+
+ALGERNON
+(prenant d'un air horrifié l’assiette vide.) Grands Dieux ! Lane, pourquoi n'y a-t-il pas de sandwichs au concombre?
+Je les avais commandés spécialement.
+
+LANE
+(gravement) Il n'y avait pas de concombre au marché ce matin,monsieur.  
+J'y suis allé deux fois. 
+
+ALGERNON
+Il n'y avait pas de concombre!
+
+LANE
+Non, monsieur.  
+Même en payant comptant. 
+
+ALGERNON 
+Vous pouvez disposer, Lane, je vous remercie.
+
+LANE
+Merci, monsieur.
+
+Didascalie
+Il sort.
+
+ALGERNON
+Je suis vraiment peiné, oncle August, qu'il n'y ait pas eu de concombres, même en payant comptant.
+
+LORD BRACKNELL
+Cela n'a aucune importance, Algernon.  
+J'ai mangé des crumpets en compagnie de Lady Harbury, qui me semble ne plus vivre maintenant que pour le plaisir.
+
+ALGERNON
+Je me suis laissé dire que de chagrin, ses cheveux sont devenus entièrement blonds.
+
+LORD BRACKNELL
+Ils ont assurément changé de couleur.  
+Pour quelle raison? Ce n'est naturellement pas moi qui peux le dire.
+(Algernon traverse la pièce et lui apporte son thé.) 
+Merci, j'ai un magnifique cadeau ce soir à te faire,Algernon.  
+Je vais te donner comme cavalière Mary Farquhar.  
+C'est une femme si charmante et si pleine d'attentions pour son mari !
+C'est un vrai plaisir de les voir ensemble.
+
+ALGERNON
+Je crains, oncle August, de devoir renoncer au plaisir de dîner avec vous ce soir, en définitive.
+
+LORD BRACKNELL
+(fronçant les sourcils) J'espère bien que non, Algernon.  
+Cela désorganiserait complètement ma table.  
+Ta tante serait obligé de dîner à l'étage.
+Heureusement qu'elle y est habituée.
+
+ALGERNON
+C'est extrêmement ennuyeux et, ai-je besoin de le dire, c'est pour moi une terrible déception, 
+mais je viens justement de recevoir un télégramme me disant que mon pauvre ami Bunbury est à nouveau gravement malade.  
+(il échange des regards avec Jack)
+On semble penser qu'il serait bon que je sois avec lui.
+
+LORD BRACKNELL
+Voilà qui est étrange.  
+Ce Mr Bunbury semble affligé d'une santé étonnamment mauvaise.
+
+ALGERNON
+Oui; ce pauvre Bunbury est affreusement malade.
+
+LORD BRACKNELL
+Ma foi, Algernon, à te dire la vérité, il me semble qu'il est grand temps que Mr Bunbury décide s'il a l'intention de vivre ou de mourir.  
+Ses hésitations continuelles sont absurdes.  
+Je n'approuve d'ailleurs aucunement cette compassion moderne pour les malades.  
+Je la trouve morbide.  
+La maladie, quelle qu'elle soit, n'est guère une attitude à encourager chez les autres.  
+La santé est le premier devoir de la vie.  
+C'est ce que je dis toujours à ta pauvre tante, mais elle n'a jamais l'air d'y faire très attention, si l'on en juge par l'évolution de son état de santé.  
+Je te serais infiniment obligée de demander de ma part à Mr Bunbury de bien vouloir ne pas avoir de rechute samedi, car je compte sur toi pour organiser ma soirée musicale.  
+Ce sera ma dernière réception, et j'ai besoin de quelque chose qui favorise la conversation,
+surtout à la fin de la saison, lorsque tout le monde a pratiquement déjà dit ce qu'il avait à dire,
+c'est-à-dire, la plupart du temps, pas grand-chose.
+
+ALGERNON
+J'en parlerai à Bunbury, oncle August, s'il est encore conscient, et je crois pouvoir vous promettre qu'il sera tout à fait rétabli samedi.  
+Naturellement, c'est très difficile d'organiser une soirée musicale.
+Voyez-vous, si l'on joue de la bonne musique, les gens n'écoutent pas, et si l'on joue de la mauvaise musique, les gens ne se parlent pas.  
+Mais je vais vous montrer le programme que j'ai imaginé, si vous voulez bien me suivre un moment dans la pièce à côté.
+
+LORD BRACKNELL
+Merci, Algernon.  
+C'est une délicate attention. (Elle se lève et suit Algernon.)
+Je suis sûre que ton programme sera exquis, lorsqu'il aura été un peu expurgé.
+Impossible d'admettre les chansons françaises.
+Les gens ont toujours l'air de penser qu'elles ne sont pas convenables, et ils prennent un air scandalisé, ce qui est vulgaire, ou bien ils rient, ce qui est pire.  
+Mais l'allemand me fait l'effet d'une langue tout à fait respectable, et en vérité, je crois bien que c'est le cas.
+Gwendolen, viens avec moi.
+
+GWENDOLEN
+Bien sûr, papa.
+

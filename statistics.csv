@@ -1,3 +1,6 @@
-scene name,Connor lines,Connor words,Connor alphanum_chars,Nemesis lines,Nemesis words,Nemesis alphanum_chars,Friska lines,Friska words,Friska alphanum_chars
-Scène I-1 : Un nouveau monde,3,4,30,2,4,22,0,0,0
-Scène I-2 : Une faim inattendue,6,16,90,4,0,0,4,0,0
+scene name,JACK lines,JACK words,JACK alphanum_chars,ALGERNON lines,ALGERNON words,ALGERNON alphanum_chars,GWENDOLEN lines,GWENDOLEN words,GWENDOLEN alphanum_chars,LANE lines,LANE words,LANE alphanum_chars,LORD BRACKNELL lines,LORD BRACKNELL words,LORD BRACKNELL alphanum_chars
+Scène I-1,0,0,0,28,232,1044,0,0,0,12,92,364,0,0,0
+Scène I-2,34,264,1161,46,471,1928,0,0,0,1,2,12,0,0,0
+Scène I-3,55,720,2868,85,1115,4491,0,0,0,1,5,26,0,0,0
+Scène I-4,1,7,35,19,248,1061,6,58,232,5,26,108,42,543,2252
+Scène I-5,22,258,1130,0,0,0,59,619,2562,0,0,0,11,126,540

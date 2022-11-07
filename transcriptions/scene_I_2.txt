@@ -1,38 +1,168 @@
-# À tout endroit du texte, une ligne faisant office de commentaire peut être
-# ajoutée en la commençant par #.
+# La pièce n’étant pas découpée en scènes,
+# on utilise ici la convention qu’une entrée/sortie de personnage marque un
+# changement de scène.
 
 Didascalie
-Le même appartement, mais aménagé.
-Friska, la plus belle chienne du monde, est en train de fixer Nem qui est acculée derrière un canapé.
+Entre Jack. Lane sort.
 
-Friska
-...
+ALGERNON
+Comment vas-tu, mon cher Constant?
+Qu'est-ce qui t'amène à Londres?
 
-Nem
-...
+JACK
+Oh, le plaisir, le plaisir!
+Qu'y a-t-il d'autre pour me faire bouger?
+Algy, toujours en train de manger, je vois!
 
-Friska
-...
+ALGERNON
+Je crois qu'il est d'usage dans la bonne société de prendre une petite collation à cinq heures.
+Où es-tu allé depuis jeudi dernier?
 
-Doudy
-Miaahh !
-(Soudain volubile) Miaa, miaaa miiaa mia miaouu miaa
-miaa miaaaou miaa !
-miaaou ? miaaou ?
-miaou mimiaaou.
-Drrououou, drrrouuu...
+JACK
+À la campagne.
 
-Nem, Friska
-...
+ALGERNON
+Qu'est-ce que tu peux bien faire là-bas?
+
+JACK
+À Londres, on est là pour s'amuser.
+À la campagne, on est là pour amuser les autres.
+C'est extrêmement ennuyeux.
+
+ALGERNON
+Et qui sont les gens que tu amuses ?
+
+JACK
+Oh, des voisins, des voisins.
+
+ALGERNON
+Tu as des voisins agréables là-bas dans le Shropshire ?
+
+JACK
+Parfaitement épouvantables!
+Je ne leur adresse jamais la parole.
+
+ALGERNON
+Comme tu dois les amuser! 
+(Il va prendre encore un sandwich.)
+À propos, ta maison de campagne, c'est bien dans le Shropshire?
+
+JACK
+Quoi? Dans le Shropshire? Oui, bien sûr.
+Dis donc! Pourquoi toutes ces tasses?
+Pourquoi ces sandwichs au concombre ?
+Pourquoi une prodigalité si inconsidérée chez un homme aussi jeune?
+Qui vient prendre le thé?
+
+ALGERNON
+Oh! seulement oncle August et Gwendolen.
+
+JACK
+Ce sera absolument délicieux !
+
+ALGERNON
+Oui, c'est très gentil à toi; mais j'ai peur que oncle August n'approuve pas vraiment ta présence ici.
+
+JACK
+Puis-je te demander pourquoi?
+
+ALGERNON
+Mon cher, la façon dont tu flirtes avec Gwendolen est absolument révoltante.
+Presque aussi scandaleuse que la façon dont Gwendolen flirte avec toi.
+
+JACK
+Je suis amoureux de Gwendolen. Je suis venu exprès à Londres pour lui demander sa main.
+
+ALGERNON
+Je croyais que tu étais venu pour le plaisir? …
+Moi, j'appelle ça des affaires.
+
+JACK
+Tu manques entièrement de romantisme!
+
+ALGERNON
+Je ne vois vraiment pas ce qu'il y a de romantique dans une demande en mariage. 
+C'est très romantique d'être amoureux.
+Mais il n'y a rien de romantique dans une demande officielle.
+ Après tout, on peut vous répondre oui. 
+C'est ce qui arrive d'habitude, je crois. 
+Alors, c'en est fini de l'enthousiasme. 
+L'essence même d'une histoire d'amour, c'est l'incertitude. 
+Si jamais je me marie, je ferai tout pour l'oublier.
+
+JACK
+Je n'en doute pas une seconde, mon cher Algy. 
+Le Tribunal des Divorces a été conçu tout spécialement pour les gens qui ont la mémoire aussi sélective.
+
+ALGERNON
+Ob, inutile de s'adonner à des spéculations sur ce sujet. C'est au Ciel que se font les divorces.
+(Jack tend la main pour prendre un sandwich. Algernon l'en empêche aussitôt.) 
+Je t'en prie, ne touche pas aux sandwichs au concombre. 
+Je les ai commandés spécialement pour oncle August.
+
+JACK
+Mais tu n'as pas cessé d'en manger.
+
+ALGERNON
+Moi, c'est différent. C'est mon oncle.
+(Il prend une assiette sur le plateau du dessous.) 
+Prends des tartines beurrées. Les tartines beurrées sont pour Gwendolen. 
+Gwendolen a une passion pour les tartines beurrées.
+
+JACK
+Elles sont d'ailleurs délicieuses, ces tartines beurrées.
+
+ALGERNON
+Doucement, mon cher, ce n'est pas une raison pour les dévorer comme si tu allais les manger toutes.
+Tu te comportes comme si tu étais déjà son mari.
+Tu n'es pas encore son mari, et je ne pense pas que tu le sois un jour.
+
+JACK
+Pourquoi diable dis-tu cela?
+
+ALGERNON
+Ma foi, d'abord parce que les jeunes filles n'épousent jamais les hommes avec qui elles flirtent. 
+Ça ne leur paraît pas convenable.
+
+JACK
+Sottises!
+
+ALGERNON
+Pas du tout. C'est une grande vérité. 
+Cela explique le nombre considérable de célibataires que l'on rencontre partout.
+En second lieu, je ne donne pas mon consentement.
+
+JACK
+Ton consentement!
+
+ALGERNON
+Mon cher ami, Gwendolen est ma cousine germaine. 
+Et avant que je t'autorise à l'épouser, 
+il va falloir que tu m'expliques toute cette histoire à propos de Cecily. (Il sonne.)
+
+JACK
+Cecily! Mais que veux-tu dire? 
+Que veux-tu dire, Algy, avec cette Cecily? 
+Je ne connais personne du nom de Cecily.
+
+ALGERNON
+Apportez-moi l'étui à cigarettes que Mr Worthing a laissé dans le fumoir la dernière fois qu'il a dîné ici.
+
+LANE
+Bien, monsieur.
 
 Didascalie
-On entend au loin le son du distributeur de croquettes.
+Lane sort.
 
-Nem
-(en redressant les oreilles) ...
+JACK
+Tu veux dire que c'est toi qui gardes mon étui à cigarettes depuis tout ce temps? 
+Tu aurais quand même pu m'en avertir. 
+J'ai écrit à Scotland Yard 2 des lettres frénétiques à ce sujet. 
+J'étais même sur le point d'offrir une forte récompense.
 
-Friska
-...
+ALGERNON
+Ma foi, ce serait une bonne idée de m'en offrir une. 
+Je suis justement plus fauché que d'habitude.
 
-Nem
-...
+JACK
+Ce serait absurde d'offrir une forte récompense maintenant que l'objet est retrouvé.

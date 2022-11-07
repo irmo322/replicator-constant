@@ -1,22 +1,91 @@
-# À tout endroit du texte, une ligne faisant office de commentaire peut être
-# ajoutée en la commençant par #.
+# La pièce n’étant pas découpée en scènes,
+# on utilise ici la convention qu’une entrée/sortie de personnage marque un
+# changement de scène.
 
 Didascalie
-La scène se passe dans un appartement vide.
-Deux chats, à distance respectable, tâtent le terrain avec précaution.
+Lane est en train de disposer le thé de l'après-midi sur la table,
+et après que la musique s'est arrêtée, Algernon entre.
 
-Douby
-Miaaa, Miaaaouuu...
-Miaaa !
+ALGERNON
+Vous m'avez entendu jouer, Lane?
 
-Nem
-Rrrrr...
+LANE
+Je n'ai pas cru poli d'écouter, monsieur.
 
-Douby
-(En insistant) Miaaaaaaaou !
+ALGERNON
+Je le regrette pour vous. 
+Je ne suis pas la partition de très près ... 
+n'importe qui peut suivre une partition …
+ mais je joue avec une expressivité merveilleuse. 
+Quand il s'agit du piano, je me fie entièrement au sentiment. 
+Je garde la science pour la Vie.
+
+LANE
+Oui, monsieur.
+
+ALGERNON
+À propos de science de la Vie, 
+avez-vous préparé les sandwichs au concombre pour Lady Bracknell?
+
+LANE
+Oui, monsieur.
 
 Didascalie
-Nem se rapproche doucement d'une fenêtre, jette un coup d'œil et se retire craintivement.
+Il les présente sur un plateau.
 
-Nem
-Mia. (chassant une mouche) Miaa ! (mangeant la mouche) Mgnmgnmgmn...
+ALGERNON
+(les examine, en prend deux et s'assied sur le canapé.)
+Oh, à propos, Lane, j'ai vu dans votre livre de comptes que jeudi soir, 
+où Lord Shoreman et Mr Worthing sont venus dîner chez moi, 
+huit bouteilles de champagne ont été consommées.
+
+LANE
+Oui, monsieur; huit bouteilles et demie.
+
+ALGERNON
+Comment se fait-il que chez les célibataires, 
+les domestiques apprécient tellement le champagne? 
+Je ne pose la question que par curiosité.
+LANE
+J'attribue cela, monsieur, à la qualité supérieure du vin. 
+J'ai souvent observé que chez les gens mariés, 
+le champagne est rarement de première qualité.
+
+ALGERNON
+Grands dieux!
+Le mariage est-il si démoralisant que cela?
+
+LANE
+Je crois que c'est en fait un état fort agréable, monsieur. 
+Je n'en ai pour ma part qu'une expérience très limitée jusqu'à présent. 
+Je n'ai été marié qu'une fois. 
+À la suite d'un malentendu entre moi-même et une jeune personne.
+
+ALGERNON
+Je crois que je ne m'intéresse pas beaucoup à votre vie privée, Lane.
+
+LANE
+En effet, monsieur; ce n'est pas un sujet très intéressant. 
+Moi-même, je n'y pense jamais.
+
+ALGERNON
+Évidemment, c'est bien naturel. 
+Vous pouvez disposer, Lane, merci.
+
+LANE
+Merci à vous, monsieur.
+
+Didascalie
+Lane sort.
+
+ALGERNON
+Lane me paraît avoir sur le mariage des idées bien laxistes.
+Sincèrement, si les couches inférieures ne nous donnent pas le bon exemple, à quoi diable servent-elles?
+J'ai  l'impression qu'en tant que classe, elles n'ont aucun sens de leur responsabilité morale.
+
+Didascalie
+Entre Lane.
+
+LANE
+Mr Constant Worthing.
+
