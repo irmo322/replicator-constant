@@ -1,0 +1,200 @@
+# La pièce n’étant pas découpée en scènes,
+# on utilise ici la convention qu’une entrée/sortie de personnage marque un
+# changement de scène.
+
+Didascalie
+Lane est en train de disposer le thé de l'après-midi sur la table,
+et après que la musique s'est arrêtée, Algernon entre.
+
+MISS PRISM ( l'appelant.)
+Cecily, Cecily!
+Une occupation aussi terre à terre que l'arrosage des fleurs est plus du ressort de Moulton que du vôtre, non ?
+Surtout lorsque desplaisirs intellectuels vous attendent.  
+Votre grammaire allemande est sur la table.  
+Ouvrez-la, je vous prie, à la page quinze.  
+Nous allons reprendre la leçon d'hier.
+
+CECILY ( s'approchant d'elle très lentement.)
+Mais je n'aime pas l'allemand.  
+Ce n'est pas une langue seyante. 
+Je sais parfaitement bien que j'ai l'air tout à fait laide après ma leçon d'allemand.
+
+MISS PRISM
+Mon enfant, vous savez à quel point votre tuteur désire que vous fassiez des progrès dans tous lesdomaines.  
+En partant pour Londres hier, il a particulièrement insisté sur l'allemand.  
+À la vérité, il insiste toujours sur l'allemand, quand il part pour Londres.
+
+CECILY
+Ce cher oncle Jack est si sérieux! Quelquefois il est tellement sérieux que j'ai le sentiment qu'il ne va pas tout à fait bien.
+
+MISS PRISM( se redressant.)
+Votre tuteur jouit d'une parfaite santé, et la gravité de son attitude, chez quelqu'un d'aussi jeune quelui, est tout à fait à son honneur.  
+Je ne connais personne qui ait un sens plus élevé du devoir et de la responsabilité.
+
+CECILY
+Je suppose que c'est pour cela qu'il a souvent l'air de s'ennuyer quand nous sommes tous les trois ensemble.
+
+MISS PRISM
+Cecily! Vous me surprenez.  
+Mr Worthing a beaucoup d'ennuis dans sa vie.  
+Une gaieté frivole, des remarques futiles seraient tout à fait déplacées danssa conversation.  
+Vous devez vous souvenir qu'il est constamment dans l'angoisse au sujet de ce malheureux jeune homme, son frère.
+
+CECILY
+J'aimerais bien que mon oncle Jack permette de temps en temps à ce malheureux jeune homme, son frère, de venir ici.  
+Nous pourrions peut-être avoir une bonne influence sùr lui, Miss Prism.  
+Je suis sûre que vous, en tout cas, vous l'auriez.  
+Vous connaissez l'allemand et la géologie, des choses de cette nature ont une grande influence sur un homme.
+
+Didascalie
+Cecily se met à écrire dans son journal.
+
+MISS PRISM ( hochant la tête.)
+Même moi, je ne pense pas que je serais capable de produire un effet quelconque sur une personnalité qui, de l'aveu de son propre frère, est irrémédiablementfaible et chancelante.  
+À dire vrai, je ne suis même pas sûre que je souhaiterais le remettre dans ledroit chemin.  
+Je ne suis pas favorable à cette manie moderne de transformer en un tourn de main des êtres  dépravés en personnes vertueuses.  
+Un homme doit récolter ce qu'il a semé'.  
+Cecily, rangez votre journal.
+Je ne vois pas du tout l'intérêt pour vous de tenir un journal intime.
+
+CECILY
+Je tiens un journal intime pour y noter les secretsmerveilleux de ma vie.  
+Si je ne les notais pas, j'en oublierais probablement tout.
+
+MISS PRISM
+La mémoire, ma chère Cecily, est le journal intime que nous portons toujours avec nous.
+
+CECILY
+Oui, mais il raconte d'habitude les choses qui ne se sont jamais produites, et qui n'avaient pas lamoindre chance de se produire.  
+Je crois que c'est la Mémoire qui est responsable de presque tous les romans en trois volumes que nous envoie la bibliothèque Mudie 1.
+
+MISS PRISM
+Cecily, ne parlez pas à la légère du roman en trois volumes.  
+J'en ai écrit un moi-même dans le temps. 
+
+CECILY
+C'est vrai, Miss Prism? Vous êtes prodigieusement intelligente !
+J'espère qu'il ne se terminait pas bien ?
+Je n'aime pas les romans qui se terminent bien.
+Ils me dépriment tellement.
+
+MISS PRISM
+Il se terminait bien pour les bons et mal pour lesméchants.  
+Tel est l'univers du roman. 
+
+CECILY
+Je le suppose.  
+Mais cela me paraît très injuste.
+Votre roman a-t-il été publié?
+
+MISS PRISM
+Hélas, non ! Le manuscrit a été malheureusement abandonné.
+(Cecily sursaute)
+J'emploie le mot au sens de perdu ou d'égaré.  
+Au travail, mon enfant, ce sont là de vaines spéculations.
+
+CECILY ( souriant.)
+Mais je vois le chanoine Chasuble qui arrive par le jardin.
+
+MISS PRISM( se levant et s'avançant.)
+Le chanoine Chasuble ! Mais quel plaisir !
+
+Didascalie
+Entre le chanoine Chasuble.
+
+CHASUBLE
+Alors, comment allons-nous ce matin? Miss Prism, j'espère que vous allez bien?
+
+CECILY
+Miss Prism se plaignait justement d'un léger malde tête.  
+Je pense que ça lui ferait tellement de bien d'aller faire un petit tour dans Je parc avec vous, mon révérend.
+
+MISS PRISM
+Mais Cecily, je n'ai jamais dit que j'avais mal à la tête.
+
+CECILY
+Non, chère Miss Prism, je le sais bien, mais j'ai senti instinctivement que vous aviez mal à la tête.  
+À vrai dire, c'est à cela que je pensais, et pas à ma leçon d'allemand, lorsque monsieur le Pasteur est arrivé.
+
+CHASUBLE
+J'espère, Cecily, que vous êtes une élève attentive.
+
+CECILY
+J'ai bien peur que non.
+
+CHASUBLE
+Voilà qui est étrange.  
+Si j'avais le bonheur d'être l'élève de Miss Prism, je serais suspendu à ses lèvres.
+(Miss Prism lui lance un regard furieux) 
+Je parlais métaphoriquement ...
+Une métaphore tirée de la vie des abeilles.  
+Hum! Je suppose que Mr Worthing n'est pas encore revenu de Londres?
+
+MISS PRISM
+Nous ne l'attendons pas avant lundi après-midi.
+
+CHASUBLE
+Ah, oui, en général, il aime bien passer le dimancheà Londres.  
+Ce n'est pas une de ces personnes dont le seul but est de s'amuser, comme cela semble bien être le cas de ce malheureux jeune homme, son frère.
+Mais je ne dois pas déranger Égérie et son élève plus longtemps.
+
+MISS PRISM
+Égérie? Je m'appelle Laetitia , mon révérend.
+
+CHASUBLE ( s'inclinant.)
+Une simple allusion classique tirée des auteurspaïens.  
+Je vous verrai certainement toutes deux à l'office du soir?
+
+MISS PRISM
+Je crois, mon révérend, que je vais faire une promenade avec vous.  
+Je m'aperçois en fin de compte que j'ai mal à la tête, et marcher un peu me ferait du bien.
+
+CHASUBLE
+Avec plaisir, Miss Prism, avec plaisir.  
+Nous pourrions marcher jusqu'aux écoles et revenir.
+
+MISS PRISM
+serait très agréable.  
+Cecily, étudiez votre économie politique en mon absence.  
+Vous pouvez sauter le chapitre sur la chute de la roupie.
+On y trouve dessensations trop fortes.  
+Même ces problèmes monétaires ont leur côté mélodramatique.
+
+Didascalie
+Elle s'éloigne dans le jardin en compagnie du chanoine Chasuble.
+
+CECILY ( prenant ses livres et les jetant sur la table.)
+Saleté d'économie politique! Saleté de géographie!
+Saleté de saleté d'allemand!
+
+Didascalie
+Entre Merriman, avec une carte sur un plateau.
+
+MERRIMAN
+Mr Constant Worthing vient d'arriver de la gare.
+Il a apporté ses bagages avec lui.
+
+CECILY ( prenant la carte et la lisant.)
+« Mr Constant Worthing, B 4, l'Albany, Londres."  
+Le frère de l'oncle Jack! Vous lui avez dit que Mr Worthing était parti pour Londres?
+
+MERRIMAN
+Oui, mademoiselle.  
+Il a paru très déçu.  
+Je lui ai dit que Miss Prism et vous étiez dans le jardin.  
+Il a déclaré qu'il était désireux de vous parler un moment en privé.
+
+CECILY
+Dites à Mr Constant Worthing de venir ici.  
+Je pense que vous devriez parler à la gouvernante pour qu'on lui prépare une chambre.
+
+MERRIMAN
+Oui, mademoiselle.
+
+Didascalie
+Merriman s'en va.
+
+CECILY
+Je n'ai encore jamais rencontré quelqu'un de vraiment dépravé.  
+Je me sens un peu effrayée.  
+J'ai si peur qu'il ressemble à tout le monde.

@@ -9,6 +9,10 @@ characters:
   - labels: ["GWENDOLEN"]
   - labels: ["LANE"]
   - labels: ["LORD BRACKNELL"]
+  - labels: ["MISS PRISM"]
+  - labels: ["CECILY"]
+  - labels: ["CHASUBLE"]
+  - labels: ["MERRIMAN"]
 
 
 scenes:
@@ -26,6 +30,18 @@ scenes:
     file_path: "transcriptions/scene_I_6.txt"
   - menu_name: "Scène I-7"
     file_path: "transcriptions/scene_I_7.txt"
+  - menu_name: "Scène II-1"
+    file_path: "transcriptions/scene_II_1.txt" 
+  - menu_name: "Scène II-2"
+    file_path: "transcriptions/scene_II_2.txt"
+  - menu_name: "Scène II-3"
+    file_path: "transcriptions/scene_II_3.txt"
+  - menu_name: "Scène II-4"
+    file_path: "transcriptions/scene_II_4.txt"
+  - menu_name: "Scène II-5"
+    file_path: "transcriptions/scene_II_5.txt"
+  - menu_name: "Scène II-6"
+    file_path: "transcriptions/scene_II_6.txt"
     
 
 version: "1.0"
@@ -34,4 +50,10 @@ output:
   web_app:
     file_path: "index.html"
   statistics:
-    file_path: "statistics.csv"
+    base_file_path: "statistics"  # replicreator will append "_[metric].csv"
+    metrics:
+      lines: True
+      words: True
+      alphanum_chars: True
+    compute_total_per_scene: True
+    compute_total_per_character: True

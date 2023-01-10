@@ -1,0 +1,183 @@
+# La pièce n’étant pas découpée en scènes,
+# on utilise ici la convention qu’une entrée/sortie de personnage marque un
+# changement de scène.
+
+Didascalie
+Entrent Algernon et Cecily, main dans la main.  
+Ils avancent lentement jusqu'à Jack
+
+JACK
+Juste Ciel!
+(Il fait signe à Algernon de s'en aller.)
+
+ALGERNON
+Mon frère John, je suis venu de Londres pour te dire que je suis navré de tous les ennuis que je t'ai causés, et que j'ai l'intention de mener à l'avenir une vie meilleure.
+
+Didascalie
+Jack lui lance un regard furieux et refuse de lui serrer la main.
+
+CECILY
+Oncle Jack, vous n'allez pas refuser de serrer la main de votre propre frère?
+
+JACK
+Rien ne pourra me décider à lui serrer la main.  
+Je  trouve que sa venue ici est une honte.  
+Il sait parfaitement bien pourquoi.
+
+CECILY
+Oncle Jack, soyez gentil.  
+Il y a du bon en chaque  être humain.  
+Constant vient justement de me parler de son pauvre ami malade, Mr Bunbury, auquel il rend visite si souvent.  
+Il ne peut y avoir que du bon chez quelqu'un de si attentionné pour un malade et qui délaisse les plaisirs de Londres pour aller s'asseoir au chevet d'un lit de douleur.
+
+JACK
+Ah, il t'a parlé de Bunbury?
+
+CECILY
+Oui, il m'a tout dit sur ce pauvre Mr Bunbury et son état de santé si épouvantable.
+
+JACK
+Bunbury ! Moi, je ne veux pas qu'il te parle de Bunbury ou de quoi que ce soit d'autre.  
+Il y a de quoi devenir complètement fou.
+
+ALGERNON
+J'admets, naturellement, que tous les torts étaient de mon côté.  
+Mais je dois dire que je trouve la froideur de mon frère John à mon égard particulièrement douloureuse.  
+J'espérais un accueil plus  chaleureux.  
+D'autant que c'est la première fois que je viens ici.
+
+CECILY
+Oncle Jack, si vous ne serrez pas la main à Constant, je ne vous pardonnerai jamais.
+
+JACK
+Tu ne me pardonneras jamais?
+
+CECILY
+Jamais, jamais, jamais!
+
+JACK
+Bon, mais c'est bien la dernière fois que je le fais.
+Acte II 119 Il lui serre la mai·n en le regardant d'un air furieux.
+
+CHASUBLE
+C'est agréable, n'est-ce pas, d'assister à une réconciliation aussi parfaite ?
+Je pense que nous pourrions laisser les deux frères ensemble.
+
+MISS PRISM
+Cecily, venez avec nous.
+
+CECILY
+Bien sûr, Miss Prism.  
+Ma petite mission de réconciliation est terminée.
+
+CHASUBLE
+Vous avez accompli aujourd'hui une belle action, ma chère enfant.
+
+MISS PRISM
+Gardons-nous de porter des jugements prématurés.
+
+CECILY
+Je me sens très heureuse.
+Tous sortent sauf Jack et Algernon.
+
+JACK
+Algy, espèce de petit gredin, tu dois partir d'ici le plus tôt possible.  
+Je ne permettrai aucun bunburysme ici.
+
+Didascalie
+Entre Meriman.
+
+MERRIMAN
+J'ai installé les affaires de Mr Constant dans la chambre voisine de la vôtre, monsieur.  
+Je suppose que cela ira?
+
+JACK
+Quoi?
+
+MERRIMAN
+Les bagages de Mr Constant, monsieur.  
+J'ai défait la valise et j'ai rangé son contenu dans la chambre voisine de la vôtre.
+
+JACK
+Ses bagages ?
+
+MERRIMAN
+Oui monsieur.  
+Trois grosses valises, un nécessaire de toilette, deux boîtes à chapeaux et un grand panier à pique-nique.
+
+ALGERNON
+Je crains de ne pouvoir rester plus d'une semaine cette fois-ci.
+
+JACK
+Merriman, faites atteler immédiatement le dogcart.  
+Mr Constant vient soudain d'être rappelé à Londres.
+
+MERRIMAN
+Bien, monsieur.
+
+Didascalie
+Il rentre dans la maison.
+
+ALGERNON
+Quel abominable menteur tu fais, Jack.  
+On ne m'a pas rappelé à Londres.
+
+JACK
+Mais si.
+
+ALGERNON
+Je n'ai entendu personne me rappeler.
+
+JACK
+Ton devoir de gentleman t'y rappelle.
+
+ALGERNON
+Mon devoir de gentleman n'a jamais constitué le moindre obstacle à ma poursuite des plaisirs.
+
+JACK
+Je comprends parfaitement cela.
+
+ALGERNON
+Ma foi, Cecily est un amour.
+
+JACK
+Je t'interdis de parler de Miss Cardew de cette façon-là.  
+Je n'aime pas cela. 
+
+ALGERNON
+Ma foi, moi, je n'aime pas tes vêtements.  
+Tu as  l'air parfaitement ridicule.  
+Pourquoi diable ne montestu pas te changer? C'est absolument puéril de porter le deuil d'un homme qui de fait séjourne une bonne semaine chez toi comme invité.  
+Je trouve cela grotesque. 
+
+JACK
+Tu ne vas certainement pas séjourner une bonne semaine chez moi, que ce soit comme invité ou comme autre chose.  
+Tu vas partir ...
+par le train de quatre heures cinq.
+
+ALGERNON
+Je ne te quitterai en aucun cas tant que tu seras en deuil.  
+Ce serait tout à fait inamical.  
+Si j'étais en deuil,  tu resterais avec moi, j'imagine.  
+Je trouverais cela très cruel de ta part, si tu ne le faisais pas.
+
+JACK
+Écoute, est-ce que tu partiras si je me change?
+
+ALGERNON
+Oui, à condition que tu ne sois pas trop long.  
+Je n'ai jamais vu personne prendre autant de temps pour s'habiller, et avec un aussi piètre résultat.
+
+JACK
+Ça vaut mieux, en tout cas, que d'être toujours trop bien habillé comme toi.
+
+ALGERNON
+Si de temps à autre je suis trop bien habillé, je compense en étant toujours excessivement bien élevé.
+
+JACK
+Ta vanité est ridicule, ta conduite un outrage, et ta présence dans mon jardin totalement absurde.  
+De toute façon, tu dois prendre le train de quatre heures cinq, et j'espère que tu vas faire un agréable voyage de retour jusqu'à Londres.  
+Bunburyser, comme tu dis, ne t'a pas tellement réussi.
+
+Didascalie
+Il rentre dans la maison.
